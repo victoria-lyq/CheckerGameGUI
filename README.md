@@ -1,2 +1,2 @@
 # CheckerGameGUI
-A graphical game of Checkers (AKA Draughts) written in python using Turtle. 
+A graphical game of Checkers written in python. 
